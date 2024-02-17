@@ -29,4 +29,5 @@ Events:
 The ambiChat creates a website, which consists of interactive videos, images, and information necessary for an individual to understand the latest opportunities available to them. The website consists of a contact information to deal interact with individuals that may face any issues, while using the website. The Fundamental classes used HTML, CSS and Javascript.
 
 Usability in the long run consists of getting up to date information about the latest events that are occurring in the world that will be adventageous to students seeking any sort of opportunity to nourish their intellectual understanding.
+"Contact US" is an external website where users who are accessing the ambichat webpage if want to contact one of our team member for any reason such as queries regarding upcoming hackathons, Clarification and Information, Technical Support, Feedback and Suggestions, Partnership Inquiries, Custom Inquiries, Event Planning and Coordination, Community Engagement, Media and Press Inquiries etc. can contact and tranfer their requests to our team.
 
