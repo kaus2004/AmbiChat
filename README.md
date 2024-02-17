@@ -10,3 +10,15 @@ We display the name of our project in bold letters to make the website look vivi
 
 header
 We use the header to display or logo and we also present a contact us button to students who access our site if they wish to have more information about a particular event or general purposes. 
+
+EVENTS
+ Event section of the project tells you about a lot of events near you.
+ There are a lot of types of events aroud you like concerts and standup comdey shows
+ This will provide people with all kinds of required details like dates, time, etc.
+ These will helpn the people to relax and enjoy a lesiure time.
+
+ Main Page
+ The main page is designed in such a way that that it will tell you first about our AmbiChat
+ There will also be a tagline Spaces inside matter
+ Also you'll see a optimistic and amazing video reklated to tech
+ And at Last about company about innovation and technology.
